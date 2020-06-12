@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "title": "",
+    "genre": "",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 1,
+    "title": "",
+    "genre": "",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 2,
+    "title": "",
+    "genre": "",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "",
+    "price": "",
+    "description": "",
+    "systems": []
+  }  
+]
