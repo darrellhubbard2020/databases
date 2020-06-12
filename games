@@ -31,5 +31,16 @@
     "price": "",
     "description": "",
     "systems": []
-  }  
+  },
+  {
+    "id": 3,
+    "title": "Street Fighter V",
+    "genre": "Teen",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef02abe3-63cc-4dfa-8eab-5543cf3bcf4f/d896ax1-5885c42a-e6ea-4c8e-9a42-24e1a70a7fb1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZWYwMmFiZTMtNjNjYy00ZGZhLThlYWItNTU0M2NmM2JjZjRmXC9kODk2YXgxLTU4ODVjNDJhLWU2ZWEtNGM4ZS05YTQyLTI0ZTFhNzBhN2ZiMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.awjLX1bd8UzXWdKxIjMfM9nFxajklhs2TTkeJCw4sc0",
+    "price": "",
+    "description": "",
+    "systems": []
+  }    
 ]
