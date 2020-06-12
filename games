@@ -1,33 +1,33 @@
 [
   {
     "id": 0,
-    "title": "",
-    "genre": "",
+    "title": "The Last of Us Two",
+    "genre": "Mature",
     "rating": "",
     "release date": "",
-    "thumbnail": "",
+    "thumbnail": "https://images.pushsquare.com/0192b8726eb7d/the-last-of-us-part-ii-ps4.900x.jpg",
     "price": "",
     "description": "",
     "systems": []
   },
   {
     "id": 1,
-    "title": "",
-    "genre": "",
+    "title": "Resident Evil 3 Remake",
+    "genre": "Mature",
     "rating": "",
     "release date": "",
-    "thumbnail": "",
+    "thumbnail": "https://www.gematsu.com/wp-content/uploads/2020/04/Resident-Evil-3-Sales_04-13-20.jpg",
     "price": "",
     "description": "",
     "systems": []
   },
   {
     "id": 2,
-    "title": "",
-    "genre": "",
+    "title": "Resident Evil 2 Remake",
+    "genre": "Mature",
     "rating": "",
     "release date": "",
-    "thumbnail": "",
+    "thumbnail": "https://gameranx.com/wp-content/uploads/2019/01/Resident-Evil-2-Remake-1080P-Wallpaper-1-720x405.jpg",
     "price": "",
     "description": "",
     "systems": []
