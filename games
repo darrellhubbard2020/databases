@@ -86,5 +86,93 @@
     "price": "",
     "description": "",
     "systems": []
-  }    
+  },
+   {
+    "id": 8,
+    "title": "Crash Bandicoot N Sane Triology",
+    "genre": "Everyone",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://wallpaperhd.wiki/wp-content/uploads/crash-bandicoot-n-sane-trilogy-wallpaper-crash-bandicoot-n-sane-trilogy-hd-wallpapers-1.jpg",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 9,
+    "title": "Sonic Forces",
+    "genre": "Everyone",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/sonic-forces-switch/sonic-forces-switch-hero.jpg",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 10,
+    "title": "Uncharted The Lost Legacy",
+    "genre": "Teen",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/714EL%2BriydL._SX342_.jpg",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 11,
+    "title": "Death Stranding",
+    "genre": "Mature",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://assets1.ignimgs.com/2019/07/21/death-stranding---button-20197-1563692244528.jpg",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 12,
+    "title": "Jump Force",
+    "genre": "Teen",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://hb.imgix.net/7742d12998693d880518fbd90798016c66523340.jpg?auto=compress,format&fit=crop&h=353&w=616&s=43126aa70a705d7c580c82eb13f70936",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 13,
+    "title": "Dragon Ball Z: Kakarot",
+    "genre": "Mature",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://hb.imgix.net/dd55dd023fad00c1e0d95dab63e5d47629a7f82e.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e22930126e46fb1931aedcb4c4297afd",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 14,
+    "title": "Tenchu 3: Wrath of Heaven",
+    "genre": "Mature",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://gamefaqs1.cbsistatic.com/box/0/5/2/13052_front.jpg",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 15,
+    "title": "Silent Hill 4: The Room",
+    "genre": "Mature",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://giantbomb1.cbsistatic.com/uploads/scale_small/8/87790/1867825-box_shill4.png",
+    "price": "",
+    "description": "",
+    "systems": []
+  }   
 ]
