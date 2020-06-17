@@ -1,0 +1,29 @@
+[
+	{
+		"id": 0,
+		"album": "",
+		"artist": "",
+		"audioSrc": "/Server/Music/ .mp3",
+		"imgSrc": "/Server/Photo/ .jpg",
+		"title": "",
+		"genre": ""
+	},
+	{
+		"id": 1,
+		"album": "",
+		"artist": "",
+		"audioSrc": "/Server/Music/ .mp3",
+		"imgSrc": "/Server/Photo/ .jpg",
+		"title": "",
+		"genre": ""
+	},
+	{
+		"id": 2,
+		"album": "",
+		"artist": "",
+		"audioSrc": "/Server/Music/ .mp3",
+		"imgSrc": "/Server/Photo/ .jpg",
+		"title": "",
+		"genre": ""
+	}
+]
