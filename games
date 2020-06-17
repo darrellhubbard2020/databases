@@ -42,5 +42,49 @@
     "price": "",
     "description": "",
     "systems": []
+  },
+  {
+    "id": 4,
+    "title": "Ghost of Tsushima",
+    "genre": "Mature",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/rBa3tCnFXM2w5EYWQ8JPMJ.jpg",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 5,
+    "title": "Mortal Kombat 11",
+    "genre": "Mature",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://www.nintendo.com//content/dam/noa/en_US/games/switch/m/mortal-kombat11-switch/mortal-kombat11-switch-hero.jpg",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 6,
+    "title": "God of War",
+    "genre": "Mature",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://twinfinite.net/wp-content/uploads/2018/04/god-of-war-how-to-get-niflheim-alloy.jpg",
+    "price": "",
+    "description": "",
+    "systems": []
+  },
+  {
+    "id": 7,
+    "title": "Call of Duty WW2",
+    "genre": "Teen",
+    "rating": "",
+    "release date": "",
+    "thumbnail": "https://www.callofduty.com/content/dam/atvi/callofduty/wwii/home/sh-overview.jpg",
+    "price": "",
+    "description": "",
+    "systems": []
   }    
 ]
